@@ -1,0 +1,12 @@
+Team 49 Dataset Audit
+======================
+Rows: 303
+Columns: 14
+Missing values: 0
+Duplicate rows: 1
+Target: output
+Positive class (1): 165
+Negative class (0): 138
+Positive class rate: 0.5446
+
+Column-level details are saved in results/dataset_audit.csv
